@@ -1,0 +1,25 @@
+*.exe
+
+pizza_server
+burger_server
+drinks_server
+main_order_app
+
+.vscode/
+# Linux executables
+pizza_server
+burger_server
+drinks_server
+main_order_app
+
+# Object files
+*.o
+
+# Windows executables
+*.exe
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
