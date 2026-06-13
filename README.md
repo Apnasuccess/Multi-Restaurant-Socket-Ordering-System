@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi Restaurant Socket Ordering System
 
 ## Overview
@@ -86,6 +87,8 @@ See tests/test_cases.md
 * Authentication
 * Docker Deployment
 * REST API
+=======
+>>>>>>> b9d99cd314b9bade61b840d4e6d0a7f191744a74
 # Multi-Restaurant Socket Ordering System
 
 ## Overview
@@ -458,6 +461,7 @@ Output:
 * Concurrent client support
 * Logging system
 
+<<<<<<< HEAD
 ## Tests
 
 Run unit tests (simple PacketCodec test):
@@ -473,6 +477,8 @@ make test
 3. Start three servers in separate terminals: `./pizza_server`, `./burger_server`, `./drinks_server`.
 4. Run `./main_order_app` and use `order` commands.
 
+=======
+>>>>>>> b9d99cd314b9bade61b840d4e6d0a7f191744a74
 ---
 
 ## Author
